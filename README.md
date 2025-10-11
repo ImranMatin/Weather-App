@@ -26,7 +26,7 @@ A simple web application built using **HTML, CSS, and JavaScript** that displays
 
 Note: If the app uses an API key (e.g., OpenWeatherMap), make sure to insert your API key in the appropriate JavaScript file.
 
-### Usage
+## Usage
 
 - Open the app in your browser.
 
@@ -34,27 +34,27 @@ Note: If the app uses an API key (e.g., OpenWeatherMap), make sure to insert you
 
 - Click "Search" to view the current weather and 5-day forecast.
 
-### Contributing
+## Contributing
 
 Contributions are welcome! You can:
 
-Fork the repository
+- Fork the repository
 
-Create a new branch (git checkout -b feature-name)
+- Create a new branch (git checkout -b feature-name)
 
-Make your changes
+- Make your changes
 
-Commit your changes (git commit -m "Add feature")
+- Commit your changes (git commit -m "Add feature")
 
-Push to the branch (git push origin feature-name)
+- Push to the branch (git push origin feature-name)
 
-Open a Pull Request
+- Open a Pull Request
 
-### License
+## License
 
 This project is licensed under the MIT License.
 
-### Acknowledgements
+## Acknowledgements
 
 OpenWeatherMap for weather data
 
